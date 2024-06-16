@@ -10,7 +10,15 @@ Our code uses an inference pipeline that is dependent on a tool previously creat
 Minicons is a library (orginally found here: https://github.com/kanishkamisra/minicons) that gathers probability and probability distribution data for multi-token sequences in language models. Our experiments rely on extensions made to this library to handle cloze testing and more robust model loading. To replicate our results, you should install the version of Minicons found here: https://github.com/JesseTNRoberts/minicons_modded
 
 #### Other libraries used
-compile this here
+matplotlib
+numpy
+pandas
+plotly
+researchpy
+seaborn
+torch
+transformers
+tqdm
 
 #### Architecture
 All experiments were performed in Google Colab using an A100 - High RAM environment. Data analysis was performed in a CPU only environment on Google Colab.
