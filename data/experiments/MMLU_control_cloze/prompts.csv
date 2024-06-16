@@ -1,25 +1,49 @@
 preamble,stimulus,is_correct,subject
-"Select an answer choice (A) choice (B) choice (C) choice (D) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (A) choice (B) choice (D) choice (C) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (A) choice (C) choice (B) choice (D) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (A) choice (C) choice (D) choice (B) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (A) choice (D) choice (B) choice (C) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (A) choice (D) choice (C) choice (B) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (B) choice (A) choice (C) choice (D) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (B) choice (A) choice (D) choice (C) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (B) choice (C) choice (A) choice (D) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (B) choice (C) choice (D) choice (A) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (B) choice (D) choice (A) choice (C) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (B) choice (D) choice (C) choice (A) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (C) choice (A) choice (B) choice (D) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (C) choice (A) choice (D) choice (B) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (C) choice (B) choice (A) choice (D) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (C) choice (B) choice (D) choice (A) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (C) choice (D) choice (A) choice (B) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (C) choice (D) choice (B) choice (A) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (D) choice (A) choice (B) choice (C) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (D) choice (A) choice (C) choice (B) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (D) choice (B) choice (A) choice (C) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (D) choice (B) choice (C) choice (A) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (D) choice (C) choice (A) choice (B) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
-"Select an answer choice (D) choice (C) choice (B) choice (A) choice. Of the answer choices above, the best answer choice is (","[""A"",""B"",""C"",""D""]",A,control
+"Select an answer choice (A) choice (B) choice (C) choice (D) choice. Of the answer choices above, the best answer choice is (","['A', 'B', 'C', 'D']",A,control
+"Select an answer choice (A) choice (B) choice (D) choice (C) choice. Of the answer choices above, the best answer choice is (","['A', 'B', 'D', 'C']",A,control
+"Select an answer choice (A) choice (C) choice (B) choice (D) choice. Of the answer choices above, the best answer choice is (","['A', 'C', 'B', 'D']",A,control
+"Select an answer choice (A) choice (C) choice (D) choice (B) choice. Of the answer choices above, the best answer choice is (","['A', 'C', 'D', 'B']",A,control
+"Select an answer choice (A) choice (D) choice (B) choice (C) choice. Of the answer choices above, the best answer choice is (","['A', 'D', 'B', 'C']",A,control
+"Select an answer choice (A) choice (D) choice (C) choice (B) choice. Of the answer choices above, the best answer choice is (","['A', 'D', 'C', 'B']",A,control
+"Select an answer choice (B) choice (A) choice (C) choice (D) choice. Of the answer choices above, the best answer choice is (","['B', 'A', 'C', 'D']",A,control
+"Select an answer choice (B) choice (A) choice (D) choice (C) choice. Of the answer choices above, the best answer choice is (","['B', 'A', 'D', 'C']",A,control
+"Select an answer choice (B) choice (C) choice (A) choice (D) choice. Of the answer choices above, the best answer choice is (","['B', 'C', 'A', 'D']",A,control
+"Select an answer choice (B) choice (C) choice (D) choice (A) choice. Of the answer choices above, the best answer choice is (","['B', 'C', 'D', 'A']",A,control
+"Select an answer choice (B) choice (D) choice (A) choice (C) choice. Of the answer choices above, the best answer choice is (","['B', 'D', 'A', 'C']",A,control
+"Select an answer choice (B) choice (D) choice (C) choice (A) choice. Of the answer choices above, the best answer choice is (","['B', 'D', 'C', 'A']",A,control
+"Select an answer choice (C) choice (A) choice (B) choice (D) choice. Of the answer choices above, the best answer choice is (","['C', 'A', 'B', 'D']",A,control
+"Select an answer choice (C) choice (A) choice (D) choice (B) choice. Of the answer choices above, the best answer choice is (","['C', 'A', 'D', 'B']",A,control
+"Select an answer choice (C) choice (B) choice (A) choice (D) choice. Of the answer choices above, the best answer choice is (","['C', 'B', 'A', 'D']",A,control
+"Select an answer choice (C) choice (B) choice (D) choice (A) choice. Of the answer choices above, the best answer choice is (","['C', 'B', 'D', 'A']",A,control
+"Select an answer choice (C) choice (D) choice (A) choice (B) choice. Of the answer choices above, the best answer choice is (","['C', 'D', 'A', 'B']",A,control
+"Select an answer choice (C) choice (D) choice (B) choice (A) choice. Of the answer choices above, the best answer choice is (","['C', 'D', 'B', 'A']",A,control
+"Select an answer choice (D) choice (A) choice (B) choice (C) choice. Of the answer choices above, the best answer choice is (","['D', 'A', 'B', 'C']",A,control
+"Select an answer choice (D) choice (A) choice (C) choice (B) choice. Of the answer choices above, the best answer choice is (","['D', 'A', 'C', 'B']",A,control
+"Select an answer choice (D) choice (B) choice (A) choice (C) choice. Of the answer choices above, the best answer choice is (","['D', 'B', 'A', 'C']",A,control
+"Select an answer choice (D) choice (B) choice (C) choice (A) choice. Of the answer choices above, the best answer choice is (","['D', 'B', 'C', 'A']",A,control
+"Select an answer choice (D) choice (C) choice (A) choice (B) choice. Of the answer choices above, the best answer choice is (","['D', 'C', 'A', 'B']",A,control
+"Select an answer choice (D) choice (C) choice (B) choice (A) choice. Of the answer choices above, the best answer choice is (","['D', 'C', 'B', 'A']",A,control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
